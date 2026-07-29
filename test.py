@@ -1,1 +1,1 @@
-print("FTW!!!!!!")
+print("FTW 7 !!!!!!!")
